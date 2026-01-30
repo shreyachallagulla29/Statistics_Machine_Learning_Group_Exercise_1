@@ -1,10 +1,10 @@
 # Statistics_Machine_Learning_Group_Exercise_1
-Group Members
-Simran Amesar
-Shreya Chowdary Challagulla
-Ishwari Thakur
-Pooja Chandrappa
-Yuvraj Ghag
+Group Members <br/>
+Simran Amesar<br/>
+Shreya Chowdary Challagulla<br/>
+Ishwari Thakur<br/>
+Pooja Chandrappa<br/>
+Yuvraj Ghag<br/>
 
 This group exercise on data preprocessing and feature selection, completed as part of the course requirements. The exercise focuses on applying techniques covered in class using a healthcare dataset related to stroke prediction.
 
