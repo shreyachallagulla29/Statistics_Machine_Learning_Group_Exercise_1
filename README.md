@@ -1,5 +1,6 @@
 # Statistics_Machine_Learning_Group_Exercise_1
 Group Members <br/>
+<br/>
 Simran Amesar<br/>
 Shreya Chowdary Challagulla<br/>
 Ishwari Thakur<br/>
